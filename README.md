@@ -10,3 +10,5 @@ Just my first programming projects.
 * ASCII art of my name I did in Codecademy.com
 
 * listing pizza toppings and their prices, codecademy.com
+
+* learning to organise grades in python, codecademy.com
