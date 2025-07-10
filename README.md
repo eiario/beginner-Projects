@@ -8,3 +8,5 @@ Just my first programming projects.
 * Magic 8-ball program I did in codecademy.com
 
 * ASCII art of my name I did in Codecademy.com
+
+* listing pizza toppings and their prices, codecademy.com
